@@ -1,5 +1,11 @@
 # 🛡️ Secure-MCP
 
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
+[![한국어](https://img.shields.io/badge/lang-한국어-green.svg)](README-ko.md)
+[![日本語](https://img.shields.io/badge/lang-日本語-red.svg)](README-ja.md)
+[![中文](https://img.shields.io/badge/lang-中文-orange.svg)](README-zh.md)
+[![Español](https://img.shields.io/badge/lang-Español-yellow.svg)](README-es.md)
+
 > **Secure execution layer for LLM/MCP agents** — safely integrate agents without exposing `.env`, secrets, or sensitive system files.
 
 ---
