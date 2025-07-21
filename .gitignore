@@ -140,6 +140,10 @@ logs/
 !.env.example
 config/whitelist.json
 
+# PyPI credentials - NEVER commit
+.pypirc
+~/.pypirc
+
 # Temporary files
 *.tmp
 *.bak

@@ -11,12 +11,12 @@ long_description = (this_directory / "README.md").read_text(encoding="utf-8")
 setup(
     name="secure-mcp",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="re-rank",
+    author_email="hojinpark@re-rank.com",
     description="Secure execution layer for LLM/MCP agents - prevent unauthorized access to sensitive files and environment variables",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourname/secure-mcp",
+    url="https://github.com/re-rank/secure-mcp",
     project_urls={
         "Bug Tracker": "https://github.com/yourname/secure-mcp/issues",
         "Documentation": "https://github.com/yourname/secure-mcp/wiki",
